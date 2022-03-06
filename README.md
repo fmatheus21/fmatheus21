@@ -14,8 +14,6 @@ You can click the Preview link to take a look at your changes.
 
 <h3>These are the technologies I use the most</h3>
 
-https://img.shields.io/github/languages/code-size/fmatheus21/movies-api
-
 <p>
    <img alt="Docker" src="https://img.shields.io/badge/-Docker-46a2f1?style=flat-square&logo=docker&logoColor=white" />
    <img alt="TypeScript" src="https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white" />
