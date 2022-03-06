@@ -44,6 +44,7 @@ You can click the Preview link to take a look at your changes.
   <br/><br/>    
   
   <h3>Open Source Projects</h3>
+  
 <table>
   <thead align="center">
     <tr border: none;>
@@ -51,8 +52,7 @@ You can click the Preview link to take a look at your changes.
       <td><b>⭐ Last Commit</b></td>
       <td><b>📚 Languages</b></td>
       <td><b>🛎 Top Language</b></td>     
-       <td><b>🛎 Code Size</b></td> 
-       
+       <td><b>🛎 Code Size</b></td>       
     </tr>
   </thead>
   <tbody>
