@@ -5,7 +5,7 @@
 - 👋 Hi, I'm Fernando Matheus.
 - 👀 I'm a Fullstack developer Java | Angular. 
 - 🌱 I'm currently learning Microservices and Cloud.
-- 📫 I live in Rio de Janeiro, Brazil <img src="https://cdn-icons-png.flaticon.com/512/330/330430.png" width="13"/>. 
+- 📫 I live in Rio de Janeiro, Brazil. <img src="https://cdn-icons-png.flaticon.com/512/330/330430.png" width="13"/>
 
 <!---
 fmatheus21/fmatheus21 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
