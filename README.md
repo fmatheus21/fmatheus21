@@ -1,5 +1,9 @@
+<h2>Welcome To My Page!</h2>
+
+<br/>
+
 - 👋 Hi, I'm Fernando Matheus.
-- 👀 I'm a Fullstack Java developer | Angular. .
+- 👀 I'm a Fullstack developer Java | Angular. 
 - 🌱 I'm currently learning Microservices and Cloud.
 - 📫 I live in Rio de Janeiro, Brazil <img src="https://cdn-icons-png.flaticon.com/512/330/330430.png" width="13"/>. 
 
@@ -8,7 +12,6 @@ fmatheus21/fmatheus21 is a ✨ special ✨ repository because its `README.md` (t
 You can click the Preview link to take a look at your changes.
 --->
 
-<p>Welcome to my page! </br> I'm <b>Fernando</b>, Fullstack Java developer | Angular, currently living at <img src="https://cdn-icons-png.flaticon.com/512/330/330430.png" width="13"/> <b>Brazil, Rio de Janeiro</b >. </p>
 <h3>These are the technologies I use the most</h3>
 
 <p>
