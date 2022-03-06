@@ -139,9 +139,11 @@ You can click the Preview link to take a look at your changes.
   </tbody>
 </table>
 
-
-
 <br/><br/>
+
+![Github Stats](https://github-readme-stats.vercel.app/api?username=fmatheus21&bg_color=30,e96443,904e95&title_color=fff&text_color=fff)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fmatheus21&layout=compact)](https://github.com/fmatheus21/github-readme-stats)
   
 <h3>Where to Find Me</h3>
 <p>
@@ -156,8 +158,5 @@ You can click the Preview link to take a look at your changes.
    <a href="https://api.whatsapp.com/send?phone=5521981964019&text=Ol%C3%A1%2C%20Fernando!" target="_blank">
     <img alt="WhatsApp" src="https://img.shields.io/badge/-WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
   </a> 
-  
-  
- 
 </p>
   
