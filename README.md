@@ -83,10 +83,30 @@ You can click the Preview link to take a look at your changes.
       <td><img alt="Commits" src="https://img.shields.io/github/commit-activity/y/fmatheus21/equilibrium/main?style=flat-square&labelColor=343b41"/></td>
       <td><img alt="Languages" src="https://img.shields.io/github/languages/count/fmatheus21/equilibrium"/></td>
       <td><img alt="Issues" src="https://img.shields.io/github/languages/top/fmatheus21/equilibrium"/></td>     
+    </tr>     
+     <tr>
+      <td><a href="https://github.com/fmatheus21/scraping" target="_blank"><b>Scraping</b></a></td>
+      <td><img alt="Commits" src="https://img.shields.io/github/commit-activity/y/fmatheus21/scraping/main?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Languages" src="https://img.shields.io/github/languages/count/fmatheus21/scraping"/></td>
+      <td><img alt="Issues" src="https://img.shields.io/github/languages/top/fmatheus21/scraping"/></td>     
+    </tr>
+     <tr>
+      <td><a href="https://github.com/fmatheus21/grupo_wl_api" target="_blank"><b>Grupo WL API</b></a></td>
+      <td><img alt="Commits" src="https://img.shields.io/github/commit-activity/y/fmatheus21/grupo_wl_api/main?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Languages" src="https://img.shields.io/github/languages/count/fmatheus21/grupo_wl_api"/></td>
+      <td><img alt="Issues" src="https://img.shields.io/github/languages/top/fmatheus21/grupo_wl_api"/></td>     
+    </tr>
+     <tr>
+      <td><a href="https://github.com/fmatheus21/grupo_wl_ui" target="_blank"><b>Grupo WL UI</b></a></td>
+      <td><img alt="Commits" src="https://img.shields.io/github/commit-activity/y/fmatheus21/grupo_wl_ui/main?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Languages" src="https://img.shields.io/github/languages/count/fmatheus21/grupo_wl_ui"/></td>
+      <td><img alt="Issues" src="https://img.shields.io/github/languages/top/fmatheus21/grupo_wl_ui"/></td>     
     </tr>
    
   </tbody>
 </table>
+
+
 
 <br/><br/>
   
