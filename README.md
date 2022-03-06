@@ -48,7 +48,7 @@ You can click the Preview link to take a look at your changes.
   <thead align="center">
     <tr border: none;>
       <td><b>🎁 Projects</b></td>
-      <td><b>⭐ Commits</b></td>
+      <td><b>⭐ Last Commit</b></td>
       <td><b>📚 Languages</b></td>
       <td><b>🛎 Top Language</b></td>     
     </tr>
@@ -56,67 +56,67 @@ You can click the Preview link to take a look at your changes.
   <tbody>
     <tr>
       <td><a href="https://github.com/fmatheus21/movies-api" target="_blank"><b>Movies API</b></a></td>
-      <td><img alt="Commits" src="https://img.shields.io/github/commit-activity/y/fmatheus21/movies-api/main?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Commits" src="https://img.shields.io/github/last-commit/fmatheus21/movies-api?style=flat-square&labelColor=343b41"/></td>
       <td><img alt="Languages" src="https://img.shields.io/github/languages/count/fmatheus21/movies-api"/></td>
       <td><img alt="Issues" src="https://img.shields.io/github/languages/top/fmatheus21/movies-api"/></td>     
     </tr>
     <tr>
       <td><a href="https://github.com/fmatheus21/movies-ui" target="_blank"><b>Movies UI</b></a></td>
-      <td><img alt="Commits" src="https://img.shields.io/github/commit-activity/y/fmatheus21/movies-ui/main?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Commits" src="https://img.shields.io/github/last-commit/fmatheus21/movies-ui?style=flat-square&labelColor=343b41"/></td>
       <td><img alt="Languages" src="https://img.shields.io/github/languages/count/fmatheus21/movies-ui"/></td>
       <td><img alt="Issues" src="https://img.shields.io/github/languages/top/fmatheus21/movies-ui"/></td>     
     </tr>
     <tr>
       <td><a href="https://github.com/fmatheus21/chma-o-biu" target="_blank"><b>Chama o Biu</b></a></td>
-      <td><img alt="Commits" src="https://img.shields.io/github/commit-activity/y/fmatheus21/chma-o-biu/main?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Commits" src="https://img.shields.io/github/last-commit/fmatheus21/chma-o-biu?style=flat-square&labelColor=343b41"/></td>
       <td><img alt="Languages" src="https://img.shields.io/github/languages/count/fmatheus21/chma-o-biu"/></td>
       <td><img alt="Issues" src="https://img.shields.io/github/languages/top/fmatheus21/chma-o-biu"/></td>     
     </tr>
     <tr>
       <td><a href="https://github.com/fmatheus21/qualyclub" target="_blank"><b>Qualy Club</b></a></td>
-      <td><img alt="Commits" src="https://img.shields.io/github/commit-activity/y/fmatheus21/qualyclub/main?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Commits" src="https://img.shields.io/github/last-commit/fmatheus21/qualyclub?style=flat-square&labelColor=343b41"/></td>
       <td><img alt="Languages" src="https://img.shields.io/github/languages/count/fmatheus21/qualyclub"/></td>
       <td><img alt="Issues" src="https://img.shields.io/github/languages/top/fmatheus21/qualyclub"/></td>     
     </tr>
     <tr>
       <td><a href="https://github.com/fmatheus21/equilibrium" target="_blank"><b>Equilibrium</b></a></td>
-      <td><img alt="Commits" src="https://img.shields.io/github/commit-activity/y/fmatheus21/equilibrium/main?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Commits" src="https://img.shields.io/github/last-commit/fmatheus21/equilibrium?style=flat-square&labelColor=343b41"/></td>
       <td><img alt="Languages" src="https://img.shields.io/github/languages/count/fmatheus21/equilibrium"/></td>
       <td><img alt="Issues" src="https://img.shields.io/github/languages/top/fmatheus21/equilibrium"/></td>     
     </tr>     
      <tr>
       <td><a href="https://github.com/fmatheus21/scraping" target="_blank"><b>Scraping</b></a></td>
-      <td><img alt="Commits" src="https://img.shields.io/github/commit-activity/y/fmatheus21/scraping/main?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Commits" src="https://img.shields.io/github/last-commit/fmatheus21/scraping?style=flat-square&labelColor=343b41"/></td>
       <td><img alt="Languages" src="https://img.shields.io/github/languages/count/fmatheus21/scraping"/></td>
       <td><img alt="Issues" src="https://img.shields.io/github/languages/top/fmatheus21/scraping"/></td>     
     </tr>
      <tr>
       <td><a href="https://github.com/fmatheus21/grupo_wl_api" target="_blank"><b>Grupo WL API</b></a></td>
-      <td><img alt="Commits" src="https://img.shields.io/github/commit-activity/y/fmatheus21/grupo_wl_api/main?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Commits" src="https://img.shields.io/github/last-commit/fmatheus21/grupo_wl_api?style=flat-square&labelColor=343b41"/></td>
       <td><img alt="Languages" src="https://img.shields.io/github/languages/count/fmatheus21/grupo_wl_api"/></td>
       <td><img alt="Issues" src="https://img.shields.io/github/languages/top/fmatheus21/grupo_wl_api"/></td>     
     </tr>
      <tr>
       <td><a href="https://github.com/fmatheus21/grupo_wl_ui" target="_blank"><b>Grupo WL UI</b></a></td>
-      <td><img alt="Commits" src="https://img.shields.io/github/commit-activity/y/fmatheus21/grupo_wl_ui/main?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Commits" src="https://img.shields.io/github/last-commit/fmatheus21/grupo_wl_ui?style=flat-square&labelColor=343b41"/></td>
       <td><img alt="Languages" src="https://img.shields.io/github/languages/count/fmatheus21/grupo_wl_ui"/></td>
       <td><img alt="Issues" src="https://img.shields.io/github/languages/top/fmatheus21/grupo_wl_ui"/></td>     
     </tr>
      <tr>
       <td><a href="https://github.com/fmatheus21/Nortus" target="_blank"><b>Nortus</b></a></td>
-      <td><img alt="Commits" src="https://img.shields.io/github/commit-activity/y/fmatheus21/Nortus/main?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Commits" src="https://img.shields.io/github/last-commit/fmatheus21/Nortus?style=flat-square&labelColor=343b41"/></td>
       <td><img alt="Languages" src="https://img.shields.io/github/languages/count/fmatheus21/Nortus"/></td>
       <td><img alt="Issues" src="https://img.shields.io/github/languages/top/fmatheus21/Nortus"/></td>     
     </tr>
      <tr>
       <td><a href="https://github.com/fmatheus21/js_refrigeracao" target="_blank"><b>JS Refrigeracao</b></a></td>
-      <td><img alt="Commits" src="https://img.shields.io/github/commit-activity/y/fmatheus21/js_refrigeracao/main?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Commits" src="https://img.shields.io/github/last-commit/fmatheus21/js_refrigeracao?style=flat-square&labelColor=343b41"/></td>
       <td><img alt="Languages" src="https://img.shields.io/github/languages/count/fmatheus21/js_refrigeracao"/></td>
       <td><img alt="Issues" src="https://img.shields.io/github/languages/top/fmatheus21/js_refrigeracao"/></td>     
     </tr>
      <tr>
       <td><a href="https://github.com/fmatheus21/tropicalize-ui" target="_blank"><b>Tropicalize UI</b></a></td>
-      <td><img alt="Commits" src="https://img.shields.io/github/commit-activity/y/fmatheus21/tropicalize-ui/main?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Commits" src="https://img.shields.io/github/last-commit/fmatheus21/tropicalize-ui?style=flat-square&labelColor=343b41"/></td>
       <td><img alt="Languages" src="https://img.shields.io/github/languages/count/fmatheus21/tropicalize-ui"/></td>
       <td><img alt="Issues" src="https://img.shields.io/github/languages/top/fmatheus21/tropicalize-ui"/></td>     
     </tr>
