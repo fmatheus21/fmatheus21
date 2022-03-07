@@ -97,7 +97,7 @@ You can click the Preview link to take a look at your changes.
       <td><img alt="Code_Size" src="https://img.shields.io/github/languages/code-size/fmatheus21/movies-ui"/></td> 
     </tr>
      <tr>
-      <td><a href="https://github.com/fmatheus21/microservices" target="_blank"><b>Movies UI</b></a></td>
+      <td><a href="https://github.com/fmatheus21/microservices" target="_blank"><b>Microservices</b></a></td>
       <td><img alt="Commits" src="https://img.shields.io/github/last-commit/fmatheus21/microservices?style=flat-square&labelColor=343b41"/></td>
       <td><img alt="Languages" src="https://img.shields.io/github/languages/count/fmatheus21/microservices"/></td>
       <td><img alt="Issues" src="https://img.shields.io/github/languages/top/fmatheus21/microservices"/></td>
@@ -111,7 +111,7 @@ You can click the Preview link to take a look at your changes.
       <td><img alt="Code_Size" src="https://img.shields.io/github/languages/code-size/fmatheus21/chma-o-biu"/></td> 
     </tr>
     <tr>
-      <td><a href="https://github.com/fmatheus21/qualyclub" target="_blank"><b>Microservices</b></a></td>
+      <td><a href="https://github.com/fmatheus21/qualyclub" target="_blank"><b>QualyClub</b></a></td>
       <td><img alt="Commits" src="https://img.shields.io/github/last-commit/fmatheus21/qualyclub?style=flat-square&labelColor=343b41"/></td>
       <td><img alt="Languages" src="https://img.shields.io/github/languages/count/fmatheus21/qualyclub"/></td>
       <td><img alt="Issues" src="https://img.shields.io/github/languages/top/fmatheus21/qualyclub"/></td>
