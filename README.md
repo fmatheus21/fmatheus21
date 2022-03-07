@@ -32,18 +32,18 @@ You can click the Preview link to take a look at your changes.
 > <img src="https://img.shields.io/badge/Bootstrap-282C34?logo=bootstrap&logoColor=7952B3" alt="Bootstrap" title="Bootstrap" height="25" />&nbsp;
 > <img src="https://img.shields.io/badge/Gradle-282C34?logo=gradle&logoColor=6DB33F" alt="Gradle" title="Gradle" height="25" />&nbsp;
 > <img src="https://img.shields.io/badge/Oracle-282C34?logo=oracle&logoColor=F80000" alt="Oracle" title="Oracle" height="25" />&nbsp;
-> <img src="https://img.shields.io/badge/Maven-282C34?logo=maven&logoColor=C71A36" alt="Maven" title="Maven" height="25" />&nbsp;
-> <img src="https://img.shields.io/badge/Thymeleaf-282C34?logo=thymeleaf&logoColor=005F0F" alt="Thymeleaf" title="Thymeleaf" height="25" />&nbsp;
+> <img src="https://img.shields.io/badge/MySQL-282C34?logo=mysql&logoColor=4479A1" alt="MySQL" title="MySQL" height="25" />&nbsp;
 > <img src="https://img.shields.io/badge/SQL_Server-282C34?logo=microsoftsqlserver&logoColor=CC2927" alt="SQL Serve" title="SQL Server" height="25" />&nbsp;
+> <img src="https://img.shields.io/badge/Maven-282C34?logo=apachemaven&logoColor=C71A36" alt="Maven" title="Maven" height="25" />&nbsp;
+> <img src="https://img.shields.io/badge/Thymeleaf-282C34?logo=thymeleaf&logoColor=005F0F" alt="Thymeleaf" title="Thymeleaf" height="25" />&nbsp;
 > <img src="https://img.shields.io/badge/Sass-282C34?logo=sass&logoColor=CC6699" alt="Sass" title="Sass" height="25" />&nbsp;
 > <img src="https://img.shields.io/badge/Postman-282C34?logo=postman&logoColor=FF6C37" alt="Postman" title="Postman" height="25" />&nbsp;
 > <img src="https://img.shields.io/badge/GitLab-282C34?logo=gitlab&logoColor=FCA121" alt="GitLab" title="GitLab" height="25" />&nbsp;
 > <img src="https://img.shields.io/badge/GitHub-282C34?logo=github&logoColor=181717" alt="GitHub" title="GitHub" height="25" />&nbsp;
 > <img src="https://img.shields.io/badge/Azure-282C34?logo=microsoftazure&logoColor=0078D4" alt="Azure" title="Azure" height="25" />&nbsp;
-> <img src="https://img.shields.io/badge/MySQL-282C34?logo=mysql&logoColor=4479A1" alt="MySQL" title="MySQL" height="25" />&nbsp;
-> <img src="https://img.shields.io/badge/IntelliJ IDEA-282C34?logo=intellijidea&logoColor=#000000" alt="IntelliJ IDEA" title="IntelliJ IDEA" height="25" />&nbsp;
-> <img src="https://img.shields.io/badge/VS_Code-282C34?logo=visualstudiocode&logoColor=#007ACC" alt="Visual Studio Code" title="Visual Studio Code" height="25" />&nbsp;
-> <img src="https://img.shields.io/badge/JavaScript-282C34?logo=javascript&logoColor=F7DF1E" alt="JavaScript" title="JavaScript" height="25" />&nbsp;
+> <img src="https://img.shields.io/badge/IntelliJ IDEA-282C34?logo=intellijidea&logoColor=000000" alt="IntelliJ IDEA" title="IntelliJ IDEA" height="25" />&nbsp;
+> <img src="https://img.shields.io/badge/VS_Code-282C34?logo=visualstudiocode&logoColor=007ACC" alt="Visual Studio Code" title="Visual Studio Code" height="25" />&nbsp;
+> <img src="https://img.shields.io/badge/Flyway-282C34?logo=flyway&logoColor=CC0200" alt="Flyway" title="Flyway" height="25" />&nbsp;
 
 <br/><br/>    
 
