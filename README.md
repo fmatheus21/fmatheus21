@@ -41,8 +41,8 @@ You can click the Preview link to take a look at your changes.
 > <img src="https://img.shields.io/badge/GitHub-282C34?logo=github&logoColor=181717" alt="GitHub" title="GitHub" height="25" />&nbsp;
 > <img src="https://img.shields.io/badge/Azure-282C34?logo=microsoftazure&logoColor=0078D4" alt="Azure" title="Azure" height="25" />&nbsp;
 > <img src="https://img.shields.io/badge/MySQL-282C34?logo=mysql&logoColor=4479A1" alt="MySQL" title="MySQL" height="25" />&nbsp;
-> <img src="https://img.shields.io/badge/JavaScript-282C34?logo=javascript&logoColor=F7DF1E" alt="JavaScript" title="JavaScript" height="25" />&nbsp;
-> <img src="https://img.shields.io/badge/JavaScript-282C34?logo=javascript&logoColor=F7DF1E" alt="JavaScript" title="JavaScript" height="25" />&nbsp;
+> <img src="https://img.shields.io/badge/IntelliJ IDEA-282C34?logo=intellijidea&logoColor=#000000" alt="IntelliJ IDEA" title="IntelliJ IDEA" height="25" />&nbsp;
+> <img src="https://img.shields.io/badge/VS_Code-282C34?logo=visualstudiocode&logoColor=#007ACC" alt="Visual Studio Code" title="Visual Studio Code" height="25" />&nbsp;
 > <img src="https://img.shields.io/badge/JavaScript-282C34?logo=javascript&logoColor=F7DF1E" alt="JavaScript" title="JavaScript" height="25" />&nbsp;
 
 <br/><br/>    
