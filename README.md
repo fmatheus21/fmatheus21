@@ -46,6 +46,26 @@ You can click the Preview link to take a look at your changes.
 > <img src="https://img.shields.io/badge/JavaScript-282C34?logo=javascript&logoColor=F7DF1E" alt="JavaScript" title="JavaScript" height="25" />&nbsp;
 
 <br/><br/>    
+
+## 📖  What am I currently learning
+
+<a name="learning-next"></a>
+
+> <img src="https://img.shields.io/badge/RabbitMQ-282C34?logo=rabbitmq&logoColor=#FF6600" alt="RabbitMQ" title="RabbitMQ" height="25" />&nbsp;
+
+<br/><br/>    
+
+## 👾  What do I want to learn
+
+<a name="learning-want"></a>
+
+> <img src="https://img.shields.io/badge/React-282C34?logo=react&logoColor=61DAFB" alt="React" title="React" height="25" />&nbsp;
+> <img src="https://img.shields.io/badge/Kotlin-282C34?logo=kotlin&logoColor=7F52FF" alt="Kotlin" title="Kotlin" height="25" />&nbsp;
+> <img src="https://img.shields.io/badge/NodeJS-282C34?logo=node.js&logoColor=339933" alt="Kotlin" title="Kotlin" height="25" />&nbsp;
+> <img src="https://img.shields.io/badge/Python-282C34?logo=python&logoColor=3776AB" alt="Python" title="Python" height="25" />&nbsp;
+
+
+<br/><br/> 
   
   ## 🎁  Open Source Projects
 
