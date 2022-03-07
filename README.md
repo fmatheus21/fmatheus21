@@ -49,11 +49,12 @@ You can click the Preview link to take a look at your changes.
 
 ## 📖  What am I currently learning
 
-<a name="learning-next"></a>
+<a name="learning-currently"></a>
 
-> <img src="https://img.shields.io/badge/RabbitMQ-282C34?logo=rabbitmq&logoColor=#FF6600" alt="RabbitMQ" title="RabbitMQ" height="25" />&nbsp;
+> <img src="https://img.shields.io/badge/RabbitMQ-282C34?logo=rabbitmq&logoColor=FF6600" alt="RabbitMQ" title="RabbitMQ" height="25" />&nbsp;
+> <img src="https://img.shields.io/badge/Google Cloud-282C34?logo=googlecloud&logoColor=4285F4" alt="Google Cloud" title="Google Cloud" height="25" />&nbsp;
 
-<br/><br/>    
+<br/><br/>
 
 ## 👾  What do I want to learn
 
