@@ -12,49 +12,52 @@ fmatheus21/fmatheus21 is a ✨ special ✨ repository because its `README.md` (t
 You can click the Preview link to take a look at your changes.
 --->
 
-<h3>Languages And Tool</h3>
+<br/><br/>  
 
+## 🛠  Technologies And Tools
 
+<a name="learning-now"></a>
 
-<p>
-   <img alt="Docker" src="https://img.shields.io/badge/-Docker-46a2f1?style=flat-square&logo=docker&logoColor=white" />
-   <img alt="TypeScript" src="https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white" />
-   <img alt="angular" src="https://img.shields.io/badge/-Angular-DD0031?style=flat-square&logo=angular&logoColor=white" />
-   <img alt="html5" src="https://img.shields.io/badge/-Java_8_+-007396?style=flat-square&logo=java&logoColor=white" />
-   <img alt="git" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" />
-  <img alt="Spring" src="https://img.shields.io/badge/-Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white" />
-  <img alt="Hibernate" src="https://img.shields.io/badge/-Hibernate-59666C?style=flat-square&logo=hibernate&logoColor=white" />
-  <img alt="MySQL" src="https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" />
-  <img alt="Microsoft_Azure" src="https://img.shields.io/badge/-Microsoft_Azure-0078D4?style=flat-square&logo=microsoftazure&logoColor=white" />
-  <img alt="GitLab" src="https://img.shields.io/badge/-GitLab-FCA121?style=flat-square&logo=gitlab&logoColor=white" />
-  <img alt="GitHub" src="https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white" />
-  <img alt="Postman" src="https://img.shields.io/badge/-Postman-FF6C37?style=flat-square&logo=postman&logoColor=white" />
-  <img alt="Spring_Security" src="https://img.shields.io/badge/-Spring_Security-6DB33F?style=flat-square&logo=springsecurity&logoColor=white" /> 
-  <img alt="Sass" src="https://img.shields.io/badge/-Sass-CC6699?style=flat-square&logo=sass&logoColor=white" />
-  <img alt="CSS3" src="https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" />
-  <img alt="Bootstrap" src="https://img.shields.io/badge/-Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white" />
-  <img alt="JavaScript" src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
-  <img alt="Gradle" src="https://img.shields.io/badge/-Gradle-02303A?style=flat-square&logo=gradle&logoColor=white" />
-  <img alt="Oracle" src="https://img.shields.io/badge/-Oracle-F80000?style=flat-square&logo=oracle&logoColor=white" />
-  <img alt="Maven" src="https://img.shields.io/badge/-Maven-C71A36?style=flat-square&logo=apachemaven&logoColor=white" />
-  <img alt="Thymeleaf" src="https://img.shields.io/badge/-Thymeleaf-005F0F?style=flat-square&logo=thymeleaf&logoColor=white" />
-  <img alt="jUnit5" src="https://img.shields.io/badge/-jUnit5-25A162?style=flat-square&logo=junit5&logoColor=white" />
-  <img alt="Microsof_SQL_Server" src="https://img.shields.io/badge/-Microsof_SQL_Server-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white" />
-  <img alt="Swagger" src="https://img.shields.io/badge/-Swagger-85EA2D?style=flat-square&logo=swagger&logoColor=white" />
-  </p>
+> <img src="https://img.shields.io/badge/Java-282C34?logo=java&logoColor=007396" alt="Java" title="Java" height="25" />&nbsp;
+> <img src="https://img.shields.io/badge/Spring_Boot-282C34?logo=springboot&logoColor=6DB33F" alt="Spring Boot" title="Spring Boot" height="25" />&nbsp;
+> <img src="https://img.shields.io/badge/Spring_Security-282C34?logo=springboot&logoColor=6DB33F" alt="Spring Security" title="Spring Security" height="25" />&nbsp;
+> <img src="https://img.shields.io/badge/Hibernate-282C34?logo=hibernate&logoColor=59666C" alt="Hibernate" title="Hibernate" height="25" />&nbsp;
+> <img src="https://img.shields.io/badge/-jUnit5-282C34?logo=junit5&logoColor=25A162" alt="jUnit5" title="jUnit5" height="25" />&nbsp;
+> <img src="https://img.shields.io/badge/-Docker-282C34?logo=docker&logoColor=46a2f1" alt="Docker" title="Docker" height="25" />&nbsp;
+> <img src="https://img.shields.io/badge/-Swagger-282C34?logo=swagger&logoColor=85EA2D" alt="Swagger" title="Swagger" height="25" />&nbsp;
+> <img src="https://img.shields.io/badge/Angular-282C34?logo=angular&logoColor=DD0031" alt="Angular" title="Angular" height="25" />&nbsp;
+> <img src="https://img.shields.io/badge/TypeScript-282C34?logo=typescript&logoColor=007ACC" alt="TypeScript" title="TypeScript" height="25" />&nbsp;
+> <img src="https://img.shields.io/badge/HTML5-282C34?logo=html5&logoColor=E34F26" alt="HTML5 logo" title="HTML5" height="25" />&nbsp;
+> <img src="https://img.shields.io/badge/CSS3-282C34?logo=css3&logoColor=F7DF1E" alt="CSS3" title="CSS3" height="25" />&nbsp;
+> <img src="https://img.shields.io/badge/Bootstrap-282C34?logo=bootstrap&logoColor=7952B3" alt="Bootstrap" title="Bootstrap" height="25" />&nbsp;
+> <img src="https://img.shields.io/badge/Gradle-282C34?logo=gradle&logoColor=6DB33F" alt="Gradle" title="Gradle" height="25" />&nbsp;
+> <img src="https://img.shields.io/badge/Oracle-282C34?logo=oracle&logoColor=F80000" alt="Oracle" title="Oracle" height="25" />&nbsp;
+> <img src="https://img.shields.io/badge/Maven-282C34?logo=maven&logoColor=C71A36" alt="Maven" title="Maven" height="25" />&nbsp;
+> <img src="https://img.shields.io/badge/Thymeleaf-282C34?logo=thymeleaf&logoColor=005F0F" alt="Thymeleaf" title="Thymeleaf" height="25" />&nbsp;
+> <img src="https://img.shields.io/badge/SQL_Server-282C34?logo=microsoftsqlserver&logoColor=CC2927" alt="SQL Serve" title="SQL Server" height="25" />&nbsp;
+> <img src="https://img.shields.io/badge/Sass-282C34?logo=sass&logoColor=CC6699" alt="Sass" title="Sass" height="25" />&nbsp;
+> <img src="https://img.shields.io/badge/Postman-282C34?logo=postman&logoColor=FF6C37" alt="Postman" title="Postman" height="25" />&nbsp;
+> <img src="https://img.shields.io/badge/GitLab-282C34?logo=gitlab&logoColor=FCA121" alt="GitLab" title="GitLab" height="25" />&nbsp;
+> <img src="https://img.shields.io/badge/GitHub-282C34?logo=github&logoColor=181717" alt="GitHub" title="GitHub" height="25" />&nbsp;
+> <img src="https://img.shields.io/badge/Azure-282C34?logo=microsoftazure&logoColor=0078D4" alt="Azure" title="Azure" height="25" />&nbsp;
+> <img src="https://img.shields.io/badge/MySQL-282C34?logo=mysql&logoColor=4479A1" alt="MySQL" title="MySQL" height="25" />&nbsp;
+> <img src="https://img.shields.io/badge/JavaScript-282C34?logo=javascript&logoColor=F7DF1E" alt="JavaScript" title="JavaScript" height="25" />&nbsp;
+> <img src="https://img.shields.io/badge/JavaScript-282C34?logo=javascript&logoColor=F7DF1E" alt="JavaScript" title="JavaScript" height="25" />&nbsp;
+> <img src="https://img.shields.io/badge/JavaScript-282C34?logo=javascript&logoColor=F7DF1E" alt="JavaScript" title="JavaScript" height="25" />&nbsp;
+
+<br/><br/>    
   
-  <br/><br/>    
-  
-  <h3>Open Source Projects</h3>
+  ## 🎁  Open Source Projects
+
   
 <table>
   <thead align="center">
     <tr border: none;>
-      <td><b>🎁 Projects</b></td>
-      <td><b>⭐ Last Commit</b></td>
-      <td><b>📚 Languages</b></td>
-      <td><b>🛎 Top Language</b></td>     
-       <td><b>🛎 Code Size</b></td>       
+      <td>🎁<b> Projects</b></td>
+      <td>⭐<b> Last Commit</b></td>
+      <td>📚<b> Languages</b></td>
+      <td>📚<b> Top Language</b></td>     
+      <td>💿<b> Code Size</b></td>       
     </tr>
   </thead>
   <tbody>
@@ -139,17 +142,19 @@ You can click the Preview link to take a look at your changes.
   </tbody>
 </table>
 
-<br/>
+<br/><br/> 
 
 ![Fernando GitHub stats](https://github-readme-stats.vercel.app/api?username=fmatheus21&show_icons=true&theme=radical)
 
-<br/>
+<br/><br/> 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fmatheus21&layout=compact&theme=radical)](https://github.com/fmatheus21/github-readme-stats)
 
-<br/>
+<br/><br/> 
   
-<h3>Where to Find Me</h3>
+
+## 📫  Where to Find Me
+
 <p>
   <a href="https://github.com/fmatheus21" target="_blank">
     <img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" />
