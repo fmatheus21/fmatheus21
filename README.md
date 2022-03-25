@@ -176,9 +176,10 @@ You can click the Preview link to take a look at your changes.
 <br/><br/> 
 
 <div>
-<a href="https://github.com/fmatheus21"></a>
+<a href="https://github.com/fmatheus21">
 <img src="https://github-readme-stats.vercel.app/api?username=fmatheus21&show_icons=true&theme=radical&include_all_commits=true&count_private=true" style="width: 45%; min-height: 300px;" />
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fmatheus21&layout=compact&theme=radical&langs_count=16" style="width: 38%; min-height: 300px;" />
+  </a>
 </div>
 
 
