@@ -175,8 +175,8 @@ You can click the Preview link to take a look at your changes.
 
 <br/><br/> 
 
-[![Fernando GitHub stats](https://github-readme-stats.vercel.app/api?username=fmatheus21&show_icons=true&theme=radical&include_all_commits=true&count_private=true)](https://github.com/fmatheus21)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fmatheus21&layout=compact&theme=radical&langs_count=16)](https://github.com/fmatheus21)
+[![Fernando GitHub stats](https://github-readme-stats.vercel.app/api?username=fmatheus21&show_icons=true&theme=radical&include_all_commits=true&count_private=true&show_owner=true)](https://github.com/fmatheus21)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fmatheus21&layout=compact&theme=radical&langs_count=16&show_owner=true)](https://github.com/fmatheus21)
 
 <br/><br/> 
   
