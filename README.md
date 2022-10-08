@@ -85,6 +85,13 @@ You can click the Preview link to take a look at your changes.
     </tr>
   </thead>
   <tbody>
+    <tr>
+      <td><a href="https://github.com/fmatheus21/authentication" target="_blank"><b>Autenticação oAuth2 e JWT</b></a></td>
+      <td><img alt="Commits" src="https://img.shields.io/github/last-commit/fmatheus21/authentication?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Languages" src="https://img.shields.io/github/languages/count/fmatheus21/authentication"/></td>
+      <td><img alt="Top_Language" src="https://img.shields.io/github/languages/top/fmatheus21/authentication"/></td>     
+      <td><img alt="Code_Size" src="https://img.shields.io/github/languages/code-size/fmatheus21/authentication"/></td> 
+    </tr>
   <tr>
       <td><a href="https://github.com/fmatheus21/paginator" target="_blank"><b>Paginator JPA Criteria</b></a></td>
       <td><img alt="Commits" src="https://img.shields.io/github/last-commit/fmatheus21/paginator?style=flat-square&labelColor=343b41"/></td>
