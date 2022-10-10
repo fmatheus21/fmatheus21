@@ -85,6 +85,13 @@ You can click the Preview link to take a look at your changes.
     </tr>
   </thead>
   <tbody>
+  <tr>
+      <td><a href="https://github.com/fmatheus21/jasper-report" target="_blank"><b>Reports with JasperReports</b></a></td>
+      <td><img alt="Commits" src="https://img.shields.io/github/last-commit/fmatheus21/jasper-report?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Languages" src="https://img.shields.io/github/languages/count/fmatheus21/jasper-report"/></td>
+      <td><img alt="Top_Language" src="https://img.shields.io/github/languages/top/fmatheus21/jasper-report"/></td>     
+      <td><img alt="Code_Size" src="https://img.shields.io/github/languages/code-size/fmatheus21/jasper-report"/></td> 
+    </tr>
     <tr>
       <td><a href="https://github.com/fmatheus21/authentication" target="_blank"><b>Authentication oAuth2 and JWT</b></a></td>
       <td><img alt="Commits" src="https://img.shields.io/github/last-commit/fmatheus21/authentication?style=flat-square&labelColor=343b41"/></td>
