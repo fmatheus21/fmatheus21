@@ -107,11 +107,11 @@ You can click the Preview link to take a look at your changes.
       <td><img alt="Code_Size" src="https://img.shields.io/github/languages/code-size/fmatheus21/jeps_jdk"/></td> 
     </tr>
     <tr>
-      <td><a href="https://github.com/fmatheus21/movies-api" target="_blank"><b>Movies API</b></a></td>
-      <td><img alt="Commits" src="https://img.shields.io/github/last-commit/fmatheus21/movies-api?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="Languages" src="https://img.shields.io/github/languages/count/fmatheus21/movies-api"/></td>
-      <td><img alt="Top_Language" src="https://img.shields.io/github/languages/top/fmatheus21/movies-api"/></td>     
-      <td><img alt="Code_Size" src="https://img.shields.io/github/languages/code-size/fmatheus21/movies-api"/></td> 
+      <td><a href="https://github.com/fmatheus21/authorization" target="_blank"><b>Authorization</b></a></td>
+      <td><img alt="Commits" src="https://img.shields.io/github/last-commit/fmatheus21authorization?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Languages" src="https://img.shields.io/github/languages/count/fmatheus21/authorization"/></td>
+      <td><img alt="Top_Language" src="https://img.shields.io/github/languages/top/fmatheus21/authorization"/></td>     
+      <td><img alt="Code_Size" src="https://img.shields.io/github/languages/code-size/fmatheus21/authorization"/></td> 
     </tr>
     <tr>
       <td><a href="https://github.com/fmatheus21/movies-ui" target="_blank"><b>Movies UI</b></a></td>
